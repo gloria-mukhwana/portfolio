@@ -1,18 +1,18 @@
 **Portfolio Project**
-Welcome to my personal portfolio website! This project showcases my skills, projects, and experience in web development. It's a simple, elegant, and responsive webpage created using HTML, CSS, and JavaScript.
+Welcome to my portfolio website! This project showcases my education background, skills, projects, and experience in web development. It's a simple, elegant, and responsive webpage created using HTML, CSS, and JavaScript.
 
 **Demo**
 You can view the live version of my portfolio by visiting:
 Portfolio Demo
 
 **Features**
-Personal Branding: A clean design that highlights my background and areas of expertise.
-
 Responsive Layout: The website is fully responsive, ensuring it looks great on both desktop and mobile devices.
 
-Project Showcase: Displays selected projects that demonstrate my skills in various technologies and tools.
-
 About Me: A brief section about my professional background and experience.
+
+Skills: A clean design that highlights my background and areas of expertise.
+
+Project Showcase: Displays a selected project that demonstrate my skills in various technologies and tools.
 
 Contact Information: Includes a way to reach out via email and social media.
 
@@ -68,10 +68,10 @@ This project is open-source and available under the MIT License.
 **Contact**
 You can reach me via:
 
-Email: [your-email@example.com]
+Email: gloriachebukwamukhwana@gmail.com
 
 GitHub: https://github.com/gloria-mukhwana
 
-LinkedIn: [LinkedIn Profile Link]
+LinkedIn: https://www.linkedin.com/in/gloria-mukhwana-710214269
 
 Thank you for visiting my portfolio!
