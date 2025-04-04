@@ -74,4 +74,7 @@ GitHub: https://github.com/gloria-mukhwana
 
 LinkedIn: https://www.linkedin.com/in/gloria-mukhwana-710214269
 
+**link to my portfolio website**
+https://gloria-mukhwana.github.io/portfolio/
+
 Thank you for visiting my portfolio!
